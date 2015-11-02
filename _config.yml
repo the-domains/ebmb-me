@@ -1,7 +1,7 @@
 name: ebmb.me
 favicon: null
-layout_spectrum: 0.25094514549709857
-typography_spectrum: 0.28034004755318165
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -18,11 +18,11 @@ color:
   brandColors:
     - '#000000'
     - '#ffffff'
-    - '#7f7f7f'
-    - '#333333'
-    - '#adadad'
+    - '#cbcbcb'
+    - '#5b5b5b'
+    - '#939393'
   brandStrength: 1
-  lightness: 0.10626466618850827
-  saturation: 0.1929393233731389
+  lightness: 0.0625
+  saturation: 0.1875
   rhythmicContrast: 0.9208045662380755
 purpose: []
